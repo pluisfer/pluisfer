@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![image](https://user-images.githubusercontent.com/64653951/110859099-edb29900-8288-11eb-8f0c-7dcbaa647eea.png)
+
+
 - 🔭 I’m currently working on Desarrollo web Frontend
 
 - 🌱 I’m currently learning Backend (node, express, mongoDB)
