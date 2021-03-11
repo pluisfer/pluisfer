@@ -34,5 +34,5 @@ Elsewhere on the internet
 
 
 ## About Lastua
-
+I am a junior web developer, with extensive knowledge in administration of systems, servers and networks, I also have skills in telecommunications, electronics and electricity. owner of the integration company LastuaBrain.
 
