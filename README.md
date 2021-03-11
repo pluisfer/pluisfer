@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+Elsewhere on the internet
+
 ![image](https://user-images.githubusercontent.com/64653951/110859099-edb29900-8288-11eb-8f0c-7dcbaa647eea.png)
+![image](https://user-images.githubusercontent.com/64653951/110859332-44b86e00-8289-11eb-9343-87d50f74149c.png)
+
 
 
 - 🔭 I’m currently working on Desarrollo web Frontend
@@ -27,4 +31,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Lastua
 
 - 📫 How to reach me: https://github.com/pluisfer
-- 
+
+
+## About Lastua
+
+
