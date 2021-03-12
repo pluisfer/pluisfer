@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: https://github.com/pluisfer  
 - https://www.linkedin.com/in/luis-f-pacheco/  
-- **@PLUISFER
+- @PLUISFER
 
 #
 ## About Lastua
