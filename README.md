@@ -30,7 +30,7 @@ Elsewhere on the internet
 
 - 😄 Pronouns: Lastua
 
-- 📫 How to reach me: https://github.com/pluisfer
+- 📫 How to reach me: https://github.com/pluisfer  https://www.linkedin.com/in/luis-f-pacheco/  @PLUISFER
 
 
 ## About Lastua
